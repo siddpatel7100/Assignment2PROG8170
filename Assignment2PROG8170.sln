@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2PROG8170", "Assignment2PROG8170\Assignment2PROG8170.csproj", "{E1E2D286-8DB1-4AAE-9BBF-12E7619C44B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriangleUnitTest1", "TriangleUnitTest1\TriangleUnitTest1.csproj", "{56FD4A1A-455F-40A3-B02C-7AF4B297A57F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E1E2D286-8DB1-4AAE-9BBF-12E7619C44B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1E2D286-8DB1-4AAE-9BBF-12E7619C44B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1E2D286-8DB1-4AAE-9BBF-12E7619C44B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56FD4A1A-455F-40A3-B02C-7AF4B297A57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56FD4A1A-455F-40A3-B02C-7AF4B297A57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56FD4A1A-455F-40A3-B02C-7AF4B297A57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56FD4A1A-455F-40A3-B02C-7AF4B297A57F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -19,13 +19,7 @@ namespace Assignment2PROG8170
             {
                 return("The triangle is not valid.\n");
             }
-            else
-            {
-
-                return ("The triangle is valid.\n");
-            }
-
-            if(a==b && b == c)
+            else if(a==b && b == c)
             {
                 return ("This is an equilateral triangle.\n");
             }else if(a==b || a==c || b == c)
