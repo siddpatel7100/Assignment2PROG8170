@@ -16,15 +16,15 @@ namespace Assignment2PROG8170
             if (a < 0 && b>0 && c>0)
             {
                 return "Side One Invalid";
-            }
+            }else
             if (b < 0 && a>0 && c>0)
             {
                 return "Side Two Invalid";
-            }
+            }else
             if (c < 0 && a>0 && b>0)
             {
                 return "Side Three Invalid";
-            }
+            }else
             if(a < 0 && b < 0 && c < 0)
             {
                 return "All sides are negative";
